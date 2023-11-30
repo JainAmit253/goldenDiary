@@ -13,6 +13,7 @@
   font-family: Poppins;
 } */
 
+
 body{
   font-family: 'Open Sans', sans-serif!important;
 }
@@ -90,23 +91,23 @@ a:hover{
 }
 .get-app-botton{
   border-radius: 42px;
-  background-color: #edb33e;
+  background-color: #fff;
   width: 65%;
   height: 35px;
-  color: #fff;
+  color: #000;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0.5px;
   margin-top: 8px;
 }
 .get-app-botton:hover{
   border-radius: 42px;
-  background-color: #edb33e;
+  background-color: #848383;
   width: 65%;
   height: 35px;
   color: #fff;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 800;
   letter-spacing: 0.5px;
   margin-top: 8px;
 }
@@ -568,7 +569,8 @@ a:hover{
   width: 30rem;
   padding: 10px 20px;
   border: none;
-  box-shadow: -1px 3px 5px #a7a7a7
+  box-shadow: -1px 3px 5px #a7a7a7;
+  background-color: #edb33e;
 }
 
 .testimonial {
